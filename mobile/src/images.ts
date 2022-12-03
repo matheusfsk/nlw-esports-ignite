@@ -1,0 +1,6 @@
+export * as game1 from '../assets/games/game-1.png'
+export * as game2 from '../assets/games/game-2.png'
+export * as game3 from '../assets/games/game-3.png'
+export * as game4 from '../assets/games/game-4.png'
+export * as game5 from '../assets/games/game-5.png'
+export * as game6 from '../assets/games/game-6.png'
